@@ -38,7 +38,7 @@ Usage:                                                              *VunitUsage*
 
   The plugin provides an fzf interface from which one can select the test or
   multiple tests to run. The plugin opens a horizontal split in the bottom
-  part of the window. The test runs asynchronously and doesn't block you from
+  part of the window. The test runs asynchronously and dot esn't block you from
   editing your source.
 
 
